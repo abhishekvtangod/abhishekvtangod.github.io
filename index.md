@@ -8,11 +8,10 @@ Hello!
 
 I am currently pursuing my Bachelor’s degree in Computer Science and Engineering from Ramaiah Institute of Technology, Bangalore (2018 to 2022).
 
+I am very interested in algorithms and algorithmic competitions.
 
-I am passionate about Competitive Programming, Full Stack Software Development
-
-
-
+I enjoy creating things that live on the computer.
+<!-- and internet. -->
 
 ## Experience
 
