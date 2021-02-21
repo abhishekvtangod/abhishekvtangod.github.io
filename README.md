@@ -93,7 +93,7 @@ avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Portfolio.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
   ```
