@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Mee
+## About Me
 
 Hello!
 
