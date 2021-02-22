@@ -64,14 +64,14 @@ budget at any given instance.
 
 - **CODERIT | Core Member and Problem Setter**
 <br>
-Jan 2019 – July 2020
+Aug 2020 – Present
 <br>
 Curated algorithmic problems for coding contests with written editorials having over
 200 sign ups and conducted various technical workshops.
 
 - **GOOGLE DEVELOPER STUDENT CLUB RIT | CORE MEMBER**
 <br>
-Aug 2020 – Present
+Jan 2019 – July 2020
 <br>
 Student Facilitator for various workshops on Web Development and Machine
 Learning.
