@@ -17,7 +17,7 @@ I enjoy creating things that live on the computer.
 
 - **SAMSUNG PRISM STUDENT RESEARCH LAB, SRI-B : Research Intern**
 <br> 
-Sept 2020 - Present | Bangalore, India
+Sept 2020 - March 2021 | Bangalore, India
 <br> 
   - Thermal based CPU controllers and power optimization.
   - Developing a Device driver which can interact with OS (Linux/Android), control
