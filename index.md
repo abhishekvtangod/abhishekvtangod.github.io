@@ -28,9 +28,9 @@ budget at any given instance.
 
 ## Projects
 
-- **E-GROCERS: Online grocery store**
+- **BOOKSHELF: Online Bookstore**
   <br>
-  - Web-based multi-tiered application to enable customers order groceries online during <br/>COVID-19 with necessary CRUD functionalities, dynamic cart, payment gateway and user authentication.
+  - Web-based multi-tiered application to enable customers order books online with necessary CRUD functionalities, dynamic cart, payment gateway and user authentication.
   <br>
   - **Tech Stack:** React, Redux, MongoDB, NodeJS, Express.
   <br>
