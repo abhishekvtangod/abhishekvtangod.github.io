@@ -51,7 +51,13 @@ budget at any given instance.
   - A dynamic web app to share blogs with necessary CRUD functionalities and user authentication.
   -  **Tech Stack**: HTML, CSS, MongoDB, Express, NodeJS
 
-## Achievements
+## Most Proud of
+
+- **ACM ICPC 2020-21 | Regionals**
+  <br>
+  Aug 2021
+  <br>
+  - Represented Ramaiah Institute of Technology, Bangalore at ACM ICPC Asia Amritapuri and Gwalior-Pune Regionals.
 
 - **Hindustan Unilever - BFS Hackathon, Bangalore | Runner Up**
   <br>
