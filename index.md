@@ -2,20 +2,6 @@
 layout: homepage
 ---
 
-<!-- Maximum compatibility redirect to Vercel site -->
-<script>
-  // Immediate JavaScript redirect for modern browsers
-  window.location.href = 'https://abhishekvtangod.vercel.app';
-</script>
-
-<!-- Fallback meta refresh for older browsers and accessibility -->
-<meta http-equiv="refresh" content="0; url=https://abhishekvtangod.vercel.app">
-
-<!-- Additional fallback for edge cases -->
-<noscript>
-  <meta http-equiv="refresh" content="0; url=https://abhishekvtangod.vercel.app">
-</noscript>
-
 ## About Me
 
 Hello!
